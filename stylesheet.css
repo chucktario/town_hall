@@ -1,0 +1,114 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-color: #F1962E;
+	width: 100%;
+	position: relative;
+	height: 110px;
+}
+
+.logo {
+	float: left;
+	margin: 15px 0px 0px 50px;
+}
+
+
+
+h2 {
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	margin: 0;
+	padding-top: 10px
+
+}
+
+h3 {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 2%;
+	padding-bottom: 8px;
+	margin-top: 5px;
+
+}
+
+.hero {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+ rgba(0, 0, 0, 0.5)), url(images/hero.jpg);
+	width: 100%;
+	height:400px;
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Arimo', sans-serif;
+	color: #fff;
+	text-shadow: 4px 4px 4px black;
+	text-align: left;
+	font-size:62px;
+	margin: 0;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.second {
+
+	font-family: 'Arimo', sans-serif;
+	color: #fff;
+	text-shadow: 4px 4px 4px black;
+	text-align: left;
+	font-size:62px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+nav {
+	margin-top: 50px;
+}
+
+nav ul{
+	border: 5px solid gray;
+	width: 1000px;
+	margin: auto;
+	padding: 20px 0px;
+}
+
+nav ul li {
+	color: orange;
+	list-style-type: none;
+	height: 50px;
+	font-family: 'Arimo', sans-serif;
+	text-align: center;
+
+}
+
+footer {
+
+   bottom:0;
+   width:100%;
+   height:50px;   
+   background-color: orange;
+   color:white;
+   font-family: sans-serif;
+   text-align: center;
+   padding-top: 10px;
+}
+nav ul li a {
+	background-color: white;
+	right: 
+}
+
+span {
+	font-family: sans-serif;
+	color: black;
+}
+
+main p {
+	text-align: right;
+	padding-right: 20px;
+}
